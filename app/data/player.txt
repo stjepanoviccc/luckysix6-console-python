@@ -1,0 +1,5 @@
+player_1|password|55.0
+player_2|password|180.0
+player_3|password|122.0
+player_4|password|90.0
+player_5|password|620.0

@@ -1,0 +1,1 @@
+# LUCKYSIX6 small console app in python
